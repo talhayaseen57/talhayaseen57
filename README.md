@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on a variety of projects including web development projects like Book-Shelf MERN stack application and Valentine Question, and Java applications like Course Report.
+- 🔭 I’m currently working on a variety of projects including web development projects like Book-Shelf MERN stack application and Valentine Question, and Java applications like Course Report.
 - 👯 I’m looking to collaborate on projects based on machine learning, deep learning, and web3-based applications.
 - 🌱 I’m currently learning software development with .NET technologies.
 - 💬 Ask me anything about web development, machine learning, and data science.
