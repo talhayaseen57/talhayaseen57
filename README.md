@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working as a software developer at ESfEQA GmbH. I am using technologies such as ASP.NET Core and also on a variety of projects including web development projects like [Book-Shelf MERN stack application](https://github.com/talhayaseen57/Book-Shelf.git), [Java Spring Application Course Report](https://github.com/talhayaseen57/Course-Report.git) and [React Weather App](https://github.com/talhayaseen57/weather-app.git).
+- 🔭 I’m currently working as a software developer at ESfEQA GmbH. I am using technologies such as ASP.NET Core and also involved in a variety of projects including web development projects like [Book-Shelf MERN stack application](https://github.com/talhayaseen57/Book-Shelf.git), [Java Spring Application Course Report](https://github.com/talhayaseen57/Course-Report.git) and [React Weather App](https://github.com/talhayaseen57/weather-app.git).
 - 👯 I’m looking to collaborate on projects based on machine learning, deep learning, and web3-based applications.
 - 🌱 I’m currently learning software development with .NET technologies.
 - 💬 Ask me anything about web development, machine learning, and data science.
