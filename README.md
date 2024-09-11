@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on projects based on machine learning, deep learning, and web3-based applications.
 - 🌱 I’m currently learning software development with .NET technologies.
 - 💬 Ask me anything about web development, machine learning, and data science.
-- ✉️ How to reach me: [zafartalhayaseen@gmail.com](mailto:zafartalhayaseen@gmail.com)
+- 📬 How to reach me: [zafartalhayaseen@gmail.com](mailto:zafartalhayaseen@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact I love backpacking 🎒, traveling 🚀 and city breaks.
 
