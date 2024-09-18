@@ -5,7 +5,7 @@
 - 💬 Ask me anything about web development, machine learning, and data science.
 - 📬 How to reach me: [zafartalhayaseen@gmail.com](mailto:zafartalhayaseen@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love backpacking 🎒, traveling 🚀 and city breaks.
+- ⚡ Fun fact: I love backpacking 🎒, traveling 🚀 and cooking.
 
 
 ## 🌐 Socials:
